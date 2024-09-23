@@ -11646,17 +11646,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.7EF1F943-762C-41FE-874B-7FC44A16E1A7</string>
+			<string>com.apple.webClip.managed.151F623F-DA34-46FE-A29E-477783256397</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>7EF1F943-762C-41FE-874B-7FC44A16E1A7</string>
+			<string>151F623F-DA34-46FE-A29E-477783256397</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://lequheh5.wuhaicj.com/?bw=admindebug&amp;code=psd</string>
+			<string>https://h5lqh.ccczcz.com/?bw=admindebug&amp;code=psd</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -11674,7 +11674,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>45B97A5E-96DE-4433-B3DB-56D5719BFF53</string>
+	<string>05B826E6-DED0-49B6-A177-9E903736C0F3</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
