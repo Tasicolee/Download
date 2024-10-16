@@ -5693,17 +5693,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.6494D3ED-D468-4ED9-B321-CB73B5A00DA0</string>
+			<string>com.apple.webClip.managed.D5A583F3-C745-4A96-8348-992EB46E516A</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>6494D3ED-D468-4ED9-B321-CB73B5A00DA0</string>
+			<string>D5A583F3-C745-4A96-8348-992EB46E516A</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://pagh5.ccczcz.com/?bw=admindebug&amp;code=iOS</string>
+			<string>https://pagh5.ccczcz.com</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -5721,7 +5721,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>DF8D036B-D61C-4EAE-AA3B-01A5AD5A8B4D</string>
+	<string>D7ECCCE0-FA8F-476B-870B-F2950BA158B1</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
